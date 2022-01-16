@@ -213,3 +213,4 @@ except discord.LoginFailure:
     print(f"[{Fore.RED}-{Fore.RESET}] Client Failed To Login >> [Improper Token Passed]")
 except discord.HTTPException:
     print(f"[{Fore.RED}-{Fore.RESET}] Client Failed To Login >> [Unknown Error]")
+⠀ 
